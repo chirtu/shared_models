@@ -1,0 +1,43 @@
+class Assets {
+ String scan =  "scan.json";
+ String sales = "sales.json";
+ String s = "s.json";
+ String purjson =  "pur.json";
+ String g =  "g.json";
+ String f =  "f.json";
+ String expire = "expire.json";
+ String expejson =  "expe.json";
+ String e = "e.json";
+ String d =  "d.json";
+ String cus =  "cus.json";
+ String b =  "b.json";
+ String alert =  "alert.json";
+ String ajson =  "a.json";
+ String no_int =  "95739-no-connection-to-internet.json";
+ String empty =  "92349-empty-state.json";
+ String phone =  "phone.png";
+ String warning =  "warning.png";
+ String sup =  "sup.png";
+ String sto =  "sto.png";
+ String sal =  "sal.png";
+ String rep =  "rep.png";
+ String pur =  "pur.png";
+ String p =  "p.png";
+ String expe = "expe.png";
+ String client =  "client.png";
+ String a =  "a.png";
+ String airtel =  "airtel.png";
+ String airtel_m =  "airtel-money.png";
+ String AzamPesa =   "AzamPesa-logo.png";
+ String bg =   "bg.jpg";
+ String bgi =  "bgi.jpg";
+ String blue =   "blue-geometric-shapes.jpg";
+ String c =  "c.png";
+ String imagesh = "images.jpeg";
+ String images =  "images.png";
+ String inve =  "inve.png";
+ String logo =  "logo.png";
+ String logo2 =   "logo2.png";
+}
+
+Assets assets = Assets();
