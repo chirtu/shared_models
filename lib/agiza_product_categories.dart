@@ -1,6 +1,6 @@
 class AgizaProductsCategory {
 
-  String fertiliser = 'Fertilizer';
+  String fertiliser = 'Fertilizers';
   String seeds = 'Grain & Cereal Seeds';
   String equipments = 'Farm Equipment & Machinery';
   String pesticides = 'Pesticides & Insecticides';
